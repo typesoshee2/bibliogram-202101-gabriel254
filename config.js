@@ -6,7 +6,7 @@
 */
 
 module.exports ={
-    website_origin: "https://rssgram.herokuapp.com",
+    website_origin: "https://bilga-b.herokuapp.com/",
     tor: {
         enabled: false
     },
